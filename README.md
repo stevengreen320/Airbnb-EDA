@@ -1,2 +1,3 @@
-# SMU_Project1_Airbnb
-SMU_Project1_Airbnb
+# Airbnb Exploratory Data Analysis
+
+For this project we wanted to look at Airbnb rentals in Texas Urban areas and Rural areas to see if there were any type of comparison between the two. We looked at data from 2013-2017 in Texas showing the price of an airbnb rental as well as the average number of rooms per rental. We also wanted to look at the correlation between different factors with the data. What we found out is that there are more urban rentals and they are higher this type of rental doesn't have a lot of rooms. Rural areas have more rooms but income is not the main driving force behind rentals. Population density is. 
